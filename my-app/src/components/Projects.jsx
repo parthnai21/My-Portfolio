@@ -9,7 +9,7 @@ const projects = [
       "A modern responsive portfolio built with React, Tailwind CSS, and Framer Motion.",
     tech: ["React", "Tailwind", "Framer Motion"],
     image: portfolio,
-    github: "#",
+    github: "https://github.com/parthnai21/My-Portfolio",
     live: "#",
   },
   {
