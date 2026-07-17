@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, ed
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://your-portfolio-link.com
+🔗 **Portfolio:** https://parthnai-portfolio.vercel.app/
 
 ---
 
