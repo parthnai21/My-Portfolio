@@ -69,7 +69,7 @@ function Footer() {
             </a>
 
             <a
-              href="Hero"
+              href="Hero.jsx"
               className="hover:text-cyan-400 transition"
             >
               <FaArrowUp />
